@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;      
+}
+
+.margin_left {
+    margin-left: 20px;
+}
